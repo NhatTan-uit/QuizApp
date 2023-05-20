@@ -15,5 +15,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## References
-React / Typescript Tutorial - Build a Quiz App lead by Thomas Weibenfalk
+React / Typescript Tutorial - Build a Quiz App lead by Thomas Weibenfalk.\
 freeCodeCamp.org - [Click here for the video](https://www.youtube.com/watch?v=F2JCjVSZlG0&list=PL41PQx5PPbt6OheJQkg-QNROfx9j75MuR)
